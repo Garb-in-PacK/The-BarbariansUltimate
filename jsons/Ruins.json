@@ -215,7 +215,68 @@
     "notification": "We have found a well-drawn map in the ruins!",
     "uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
   },
-
+ {
+    "name": "ULTIMATE culture cache",
+    "notification": "We uncover a legendary cultural cache in the ruins! (+[cultureAmount] Culture)",
+    "uniques": ["Gain [150]-[600] [Culture]"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "ULTIMATE scientific breakthrough",
+    "notification": "We recover lost schematics and research logs! (+[scienceAmount] Science)",
+    "uniques": ["Gain [150]-[600] [Science]"],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "ULTIMATE treasure hoard",
+    "notification": "A mythical treasure hoard is found in the ruins! (+[goldAmount] Gold)",
+    "uniques": ["Gain [300]-[1500] [Gold]"],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "ULTIMATE sacred revelation",
+    "notification": "A sacred revelation reshapes our beliefs! (+[faithAmount] Faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain [200]-[1200] [Faith]"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "ULTIMATE resettlement wave (adds population)",
+    "notification": "A massive group of survivors joins our empire! Population added to [cityName].",
+    "uniques": ["[+7] population in a random city"],
+    "color": "#81c784"
+  },
+  {
+    "name": "ULTIMATE settlers & workforce join",
+    "notification": "A full expedition joins us from the ruins!",
+    "uniques": [
+      "Free [Settler] found in the ruins",
+      "Free [Worker] found in the ruins"
+    ]
+  },
+  {
+    "name": "ULTIMATE veteran training",
+    "notification": "Veteran instructors drill our unit to elite standards!",
+    "uniques": ["[This Unit] gains [100] XP"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "ULTIMATE strategic maps",
+    "notification": "We recover complete regional charts and enemy traces!",
+    "uniques": [
+      "Reveal up to [All] [Barbarian encampment] within a [20] tile radius",
+      "Reveal up to [All] [Luxury resource] within a [15] tile radius",
+      "Reveal up to [All] [Bonus resource] within a [20] tile radius"
+    ]
+  },
+  {
+    "name": "ULTIMATE golden age trigger",
+    "notification": "A legendary find sparks an empire-wide celebration!",
+    "uniques": ["Empire enters golden age"],
+    "color": "#cf8ff7"
+  },
   {
     "name": "into era of greatness",
     "notification": "Solving a potential problem bring us into an era of greatness!",
