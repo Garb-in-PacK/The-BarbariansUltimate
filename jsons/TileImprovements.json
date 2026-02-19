@@ -1,10 +1,11 @@
 [
 	{ 
 		"name": "Barbarian encampment", 
+		"turnsToBuild": 10,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Unpillagable",
-			"Unbuildable",
+			"Can be built outside your borders",
 			"Provides a random bonus when entered",
 			"Excluded from map editor"],
         "civilopediaText": [
